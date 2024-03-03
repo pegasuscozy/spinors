@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /files/CVCopy.pdf
+
+  - title: "SM check"
+    url: /files/statmech4.pdf
     
   # - title: "Guide"
   #   url: /markdown/
