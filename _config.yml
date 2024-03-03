@@ -8,27 +8,27 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "KE Home[age"
+title                    : "KE Homepage"
 title_separator          : "-"
 name                     : &name "KE"
 description              : &description "personal description"
-url                      : https://pegasuscozy.github.io/spinors/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pegasuscozy.github.io/spinors # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "pegasuscozy.github.io/academicpagesspinors"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "KE.png"
+  name             : "KE"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Physics"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "IIST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pegasuscozy@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "pegasuscozy"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
